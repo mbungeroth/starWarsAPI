@@ -1,0 +1,1 @@
+A simple site to use info from the Star Wars API at swapi.co
