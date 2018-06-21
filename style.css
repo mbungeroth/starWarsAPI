@@ -20,5 +20,16 @@ button {
   color: black;
   font-size: 1.5em;
   border-radius: 15px;
+  font-family: 'Lucida Sans';
 }
 
+button:hover {
+  background-color: aqua;
+  color: darkslategrey;
+}
+
+p {
+  color: #f2f759;
+  font-family: 'Righteous', cursive;
+  font-size: 1.5em;
+}
